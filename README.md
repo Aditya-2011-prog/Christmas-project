@@ -35,6 +35,10 @@ A premium, interactive web experience designed to send heartwarming Christmas wi
 
 - **Music**: "Jingle Bells" (Kevin MacLeod / Royalty Free).
 - **Icons/Emojis**: Standard Unicode Emojis.
+- 
+## ✍️ Author
+
+**Created by Aditya Singh** (2025)
 
 ---
 
